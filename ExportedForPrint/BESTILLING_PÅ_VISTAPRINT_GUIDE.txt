@@ -1,0 +1,23 @@
+---- GUIDE TIL VISTAPRINT ----
+
+1. Gå til: 
+http://www.vistaprint.com/studio.aspx?template=f_AB9&ag=True&rd=1 
+
+2. Upload ønsket achievement
+
+3. Godkend design
+
+4. Godkend antal der passer til afdelingen
+
+5. Tryk "næste" til et par sider hvor de prøver at sælge ekstra crap
+
+6. Gentag trin 1. indtil kurven er fyldt med det du vil have!
+
+
+---- GUIDE TIL REDIGERING ----
+
+1. Download "InkScape"
+
+2. Åbn vedlagte svg fil
+
+3. Brug tekst værktøjet ti lat rette i tekst, eller gå amok med at designe, forme og tegne
